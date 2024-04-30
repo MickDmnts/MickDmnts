@@ -10,6 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=MickDmnts&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h2>Profile statistics</h2>
 <a href="https://github-readme-stats.vercel.app/api?username=MickDmnts">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MickDmnts" />
 </a>
